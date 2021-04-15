@@ -8,4 +8,4 @@ To achieve this, we intend to run this data collection with 20 healthy participa
 
 To reach that point, we aim to run an initial study involving healthy individuals who are asked to generate acoustic data for their daily activities.
 
-Please download the [iOS](https://testflight.apple.com/join/dhx1ymYG) or Android App and do the data collection
+Please download the [iOS](https://testflight.apple.com/join/dhx1ymYG) or [Android](https://play.google.com/store/apps/details?id=uk.ac.kent.audiohive) App and do the data collection
