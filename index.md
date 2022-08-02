@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+<h1>Hello there 👋🏻</h1>
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+My name is Pavlos and I am a Research Assistant at [University of Kent](https://www.kent.ac.uk/computing)
