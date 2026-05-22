@@ -6,9 +6,9 @@ title: Pavlos Nicolaou
 <h1>Pavlos Nicolaou</h1>
 <p class="subtitle">Research Associate, KIOS Research and Innovation Center of Excellence, University of Cyprus.</p>
 
-I work on mobile and ubiquitous computing, with a focus on acoustic sensing and machine learning for assistive living. My research explores how everyday devices — smartphones, wearables, and ambient microphones — can passively monitor health and daily activities while respecting privacy.
+I work on ubiquitous computing, with the focus on finding solution with the use of Machine Learning and smart devices to help daily living. My research explores how smart devices, like smartphones, wearables and ambient sensors can passively monitor health and daily activities while respecting privacy.
 
-I completed my PhD at the [University of Kent](https://www.kent.ac.uk/computing) in 2024, advised by [Christos Efstratiou](https://scholar.google.com/citations?user=Pa0_tSwAAAAJ), on acoustic sensing models for elderly care in single-occupancy homes. Before that I worked on AR/VR systems for pedestrian navigation and serious games for stroke rehabilitation.
+I completed my PhD at the [University of Kent](https://www.kent.ac.uk/computing) in 2024, supervised by [Christos Efstratiou](https://scholar.google.com/citations?user=9Iab9EAAAAAJ&hl=en&oi=ao), on acoustic sensing models for elderly care in single-occupancy homes. Before that I worked on AR/VR systems for pedestrian navigation and serious games for stroke rehabilitation.
 
 <p class="links-row">
   <a href="mailto:pavnicolaou@gmail.com">email</a><span class="sep">·</span>
