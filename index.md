@@ -65,7 +65,3 @@ I completed my PhD at the [University of Kent](https://www.kent.ac.uk/computing)
 
 - **[AudioHive](/2021/04/13/audiohive.html)** — iOS and Android study app that collected ambient acoustic data from 20 participants to train passive activity-recognition models. The dataset underpinned my PhD work.
 - **[Research tooling](https://github.com/p4vlos?tab=repositories)** — small open-source experiments on LLM agents for research workflows, RAG over arXiv, and wearable-data analysis (Whoop, Oura, Colmi Smart Ring).
-
-## Writing
-
-A handful of older posts live in the [archive](/archive.html).
