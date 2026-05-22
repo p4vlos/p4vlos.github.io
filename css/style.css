@@ -1,0 +1,111 @@
+:root {
+  --fg: #1a1a1a;
+  --muted: #666;
+  --rule: #e5e5e5;
+  --link: #1c4ea8;
+  --link-hover: #b32d2d;
+  --bg: #fdfdfa;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: Charter, "Iowan Old Style", "Source Serif Pro", Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3rem 1.25rem 1rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--rule);
+  margin-top: 3rem;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.site-footer a { color: var(--muted); }
+
+h1, h2, h3 {
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 2.25rem 0 0.75rem;
+}
+
+h1 { font-size: 2rem; margin-top: 0; }
+h2 { font-size: 1.3rem; border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; }
+h3 { font-size: 1.05rem; }
+
+p { margin: 0.75rem 0; }
+
+a {
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+a:hover { color: var(--link-hover); border-bottom-color: currentColor; }
+
+.subtitle {
+  color: var(--muted);
+  font-style: italic;
+  margin-top: -0.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.links-row {
+  margin: 1.25rem 0 0.5rem;
+  font-size: 0.95rem;
+}
+.links-row a { margin-right: 0.4rem; }
+.links-row span.sep { color: var(--muted); margin-right: 0.4rem; }
+
+ul { padding-left: 1.25rem; }
+ul li { margin: 0.25rem 0; }
+
+ul.pubs {
+  list-style: none;
+  padding-left: 0;
+}
+ul.pubs > li {
+  margin: 1rem 0;
+  padding-left: 0;
+}
+ul.pubs .venue { font-style: italic; }
+ul.pubs .year { color: var(--muted); }
+ul.pubs .pub-links { font-size: 0.88rem; margin-left: 0.25rem; }
+ul.pubs .pub-links a { color: var(--muted); }
+ul.pubs .pub-links a:hover { color: var(--link-hover); }
+
+.post-meta { color: var(--muted); font-size: 0.9rem; margin-top: -0.25rem; }
+.post-back { margin-top: 3rem; font-size: 0.9rem; }
+
+img { max-width: 100%; height: auto; }
+
+pre, code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.9em;
+}
+pre {
+  background: #f4f4f0;
+  padding: 0.75rem 1rem;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+
+@media (max-width: 520px) {
+  html, body { font-size: 16px; }
+  .container { padding-top: 2rem; }
+  h1 { font-size: 1.6rem; }
+}

@@ -1,13 +1,17 @@
 ---
-layout: page
-title: Blog Archive
+layout: default
+title: Writing
 ---
 
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+# Writing
+
+<ul class="pubs">
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="year">— {{ post.date | date: "%B %Y" }}</span>
+  </li>
 {% endfor %}
+</ul>
+
+<p><a href="{{ '/' | relative_url }}">← back home</a></p>
