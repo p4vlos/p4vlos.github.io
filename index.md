@@ -31,6 +31,18 @@ I completed my PhD at the [University of Kent](https://www.kent.ac.uk/computing)
 
 <ul class="pubs">
   <li>
+    <strong>Nicolaou P.</strong>, Efstratiou C.
+    Removing speech, keeping activities: a privacy firewall for acoustic sensing in assisted living.
+    <span class="venue">arXiv preprint</span>, <span class="year">2026</span>.
+    <span class="pub-links">[<a href="https://arxiv.org/abs/2609.02376">paper</a>]</span>
+  </li>
+  <li>
+    <strong>Nicolaou P.</strong>, Malialis K., Kontou A., Kolios P.
+    A comparative study of deep learning architectures for multi-horizon behavioural forecasting for mobile health.
+    <span class="venue">arXiv preprint</span>, <span class="year">2026</span>.
+    <span class="pub-links">[<a href="https://arxiv.org/abs/2606.14604">paper</a>]</span>
+  </li>
+  <li>
     Lakehal A., <strong>Nicolaou P.</strong>, Lepreux S., Efstratiou C., Kolski C.
     Spatial knowledge acquisition for pedestrian navigation: a comparative study between smartphones and AR glasses.
     <span class="venue">Information</span>, <span class="year">2023</span>.
