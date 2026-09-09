@@ -15,7 +15,7 @@ I completed my PhD at the [University of Kent](https://www.kent.ac.uk/computing)
   <a href="https://scholar.google.com/citations?user=OieXGCcAAAAJ">scholar</a><span class="sep">·</span>
   <a href="https://github.com/p4vlos">github</a><span class="sep">·</span>
   <a href="https://www.linkedin.com/in/pavlosnicolaou/">linkedin</a><span class="sep">·</span>
-  <a href="https://twitter.com/pavlosnicolaou">twitter</a><span class="sep">·</span>
+  <a href="https://x.com/pavlosnicolaou">X</a><span class="sep">·</span>
   <a href="https://www.researchgate.net/profile/Pavlos-Nicolaou">researchgate</a>
 </p>
 
