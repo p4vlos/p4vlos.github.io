@@ -73,6 +73,12 @@ I completed my PhD at the [University of Kent](https://www.kent.ac.uk/computing)
   </li>
 </ul>
 
+### Reviewing
+
+- [CIBCB](https://cibcb.org/)
+- [IEEE SSCI 2027](https://attend.ieee.org/ssci-2027/)
+- [ICLR](https://iclr.cc/)
+
 ## Selected projects
 
 - **[AudioHive](/2021/04/13/audiohive.html)** — iOS and Android study app that collected ambient acoustic data from 20 participants to train passive activity-recognition models. The dataset underpinned my PhD work.
