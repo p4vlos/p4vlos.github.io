@@ -73,7 +73,7 @@ I completed my PhD at the [University of Kent](https://www.kent.ac.uk/computing)
   </li>
 </ul>
 
-### Reviewing
+### Reviewer
 
 - [CIBCB](https://cibcb.org/)
 - [IEEE SSCI 2027](https://attend.ieee.org/ssci-2027/)
