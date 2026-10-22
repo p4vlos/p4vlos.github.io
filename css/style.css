@@ -64,6 +64,25 @@ a:hover { color: var(--link-hover); border-bottom-color: currentColor; }
   margin-bottom: 1.25rem;
 }
 
+.profile-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.profile-intro { min-width: 0; }
+
+.profile-photo {
+  flex: 0 0 auto;
+  width: 8.5rem;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border: 3px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 3px 12px rgb(0 0 0 / 15%);
+}
+
 .links-row {
   margin: 1.25rem 0 0.5rem;
   font-size: 0.95rem;
@@ -108,4 +127,6 @@ pre {
   html, body { font-size: 16px; }
   .container { padding-top: 2rem; }
   h1 { font-size: 1.6rem; }
+  .profile-header { gap: 1.25rem; }
+  .profile-photo { width: 6.5rem; }
 }

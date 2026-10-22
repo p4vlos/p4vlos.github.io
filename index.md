@@ -3,8 +3,13 @@ layout: default
 title: Pavlos Nicolaou
 ---
 
-<h1>Pavlos Nicolaou</h1>
-<p class="subtitle">Research Associate, KIOS Research and Innovation Center of Excellence, University of Cyprus.</p>
+<header class="profile-header">
+  <div class="profile-intro">
+    <h1>Pavlos Nicolaou</h1>
+    <p class="subtitle">Research Associate, KIOS Research and Innovation Center of Excellence, University of Cyprus.</p>
+  </div>
+  <img class="profile-photo" src="{{ '/images/pavlos-nicolaou.jpg' | relative_url }}" alt="Portrait of Pavlos Nicolaou" width="460" height="460" decoding="async">
+</header>
 
 I work on ubiquitous computing, with the focus on finding solution with the use of Machine Learning and smart devices to help daily living. My research explores how smart devices, like smartphones, wearables and ambient sensors can passively monitor health and daily activities while respecting privacy.
 
