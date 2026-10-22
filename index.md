@@ -10,6 +10,8 @@ I work on ubiquitous computing, with the focus on finding solution with the use 
 
 I completed my PhD at the [University of Kent](https://www.kent.ac.uk/computing) in 2024, supervised by [Christos Efstratiou](https://scholar.google.com/citations?user=9Iab9EAAAAAJ&hl=en&oi=ao), on acoustic sensing models for elderly care in single-occupancy homes. Before that I worked on AR/VR systems for pedestrian navigation and serious games for stroke rehabilitation.
 
+I received a Marie Skłodowska-Curie Actions Seal of Excellence from the European Commission ([certificate](/pdfs/Seal%20of%20Excellence.pdf)).
+
 <p class="links-row">
   <a href="mailto:pavnicolaou@gmail.com">email</a><span class="sep">·</span>
   <a href="https://scholar.google.com/citations?user=OieXGCcAAAAJ">scholar</a><span class="sep">·</span>
